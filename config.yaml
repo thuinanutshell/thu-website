@@ -1,4 +1,4 @@
-baseURL: "thuinanutshell.github.io"
+baseURL: "https://thuinanutshell.github.io"
 languageCode: "en-us"
 title: "thuinanutshell"
 theme: ["PaperMod"]
