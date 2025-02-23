@@ -1,19 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on thuinanutshell</title>
-    <link>thuinanutshell.github.io/posts/</link>
-    <description>Recent content in Posts on thuinanutshell</description>
+    <title>Posts on Thu Than</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Thu Than</description>
     <generator>Hugo -- 0.144.2</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 22 Feb 2025 20:40:10 -0300</lastBuildDate>
-    <atom:link href="thuinanutshell.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>thuinanutshell.github.io/posts/welcome/</link>
+      <title>A Deep Dive Into Model Comparison Metrics</title>
+      <link>http://localhost:1313/posts/model_comparison/</link>
       <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
-      <guid>thuinanutshell.github.io/posts/welcome/</guid>
-      <description>&lt;p&gt;Hello, my name is Thu.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/model_comparison/</guid>
+      <description>&lt;p&gt;This is a long-overdue review of my CS146 - Computational Bayesian Statistics :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Guide To Hypothesis Testing</title>
+      <link>http://localhost:1313/posts/hyp_test/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/hyp_test/</guid>
+      <description>&lt;p&gt;A collection of notes and reflection on hypothesis testing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Airport Simulation With Queuing Theory</title>
+      <link>http://localhost:1313/posts/airport_simulation/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/airport_simulation/</guid>
+      <description>&lt;p&gt;How should we set up the queuing system to minimize waiting times?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Exploring Object Detection Models</title>
+      <link>http://localhost:1313/posts/rcnn/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/rcnn/</guid>
+      <description>&lt;p&gt;I explored R-CNN, Fast R-CNN and YOLO to detect North symbols&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Playing Around With Cellular Automata</title>
+      <link>http://localhost:1313/posts/cellular_automata/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/cellular_automata/</guid>
+      <description>&lt;p&gt;How can simple interactions among individual units can lead to an emergent property?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reaction-Diffusion Model - Bacteria &amp; Food Growth</title>
+      <link>http://localhost:1313/posts/bacteria_growth/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/bacteria_growth/</guid>
+      <description>&lt;p&gt;In this article, we explore how the bacteria and food grow to form an emergent patterns from very simple rules&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reflections on Learning Low-Level Programming</title>
+      <link>http://localhost:1313/posts/ll_programming/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/ll_programming/</guid>
+      <description>&lt;p&gt;I spent the past few weeks learning C++ and it&amp;rsquo;s time to write down some reflections.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vietnamese Handwritten Classification</title>
+      <link>http://localhost:1313/posts/cnn/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/posts/cnn/</guid>
+      <description>&lt;p&gt;How do different machine learning models perform on classifying handwritten Vietnamese from 3 datasets?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

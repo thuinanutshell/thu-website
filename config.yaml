@@ -1,4 +1,56 @@
+# config.yaml
 baseURL: "https://thuinanutshell.github.io"
-languageCode: "en-us"
-title: "thuinanutshell"
-theme: ["PaperMod"]
+title: "Thu Than"
+theme: PaperMod
+
+pagination:
+  pagerSize: 5
+
+params:
+  defaultTheme: dark
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  ShowSocialIcons: true
+
+  homeInfoParams:
+    Title: "👋 Welcome to thuinanutshell"
+    Content: >
+      Hi, my name is Thu - a junior majoring in Data Science @ Minerva University where I got the chance to travel around the world while pursuing my degree.
+      I create this blog to document my learning as an aspiring Research Engineer.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/thuinanutshell"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/thu-than-2243b5315/"
+
+  assets:
+    disableHLJS: true
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 40
