@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>From_scratches on Thu Than</title>
+    <link>http://localhost:1313/from_scratch/</link>
+    <description>Recent content in From_scratches on Thu Than</description>
+    <generator>Hugo -- 0.144.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Feb 2025 20:40:10 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/from_scratch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convolutional Neural Networks</title>
+      <link>http://localhost:1313/from_scratch/cnn/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/cnn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Means Clustering</title>
+      <link>http://localhost:1313/from_scratch/kmeans/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/kmeans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Nearest Neighbor</title>
+      <link>http://localhost:1313/from_scratch/knn/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/knn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear Regression</title>
+      <link>http://localhost:1313/from_scratch/linreg/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/linreg/</guid>
+      <description>Understanding Linear Regression by implementing it from scratch</description>
+    </item>
+    <item>
+      <title>Logistic Regression</title>
+      <link>http://localhost:1313/from_scratch/logreg/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/logreg/</guid>
+      <description>Understanding Logistic Regression by implementing it from scratch</description>
+    </item>
+    <item>
+      <title>Multilayer Perceptron</title>
+      <link>http://localhost:1313/from_scratch/mlp/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/mlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Naive Bayes</title>
+      <link>http://localhost:1313/from_scratch/nb/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/nb/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

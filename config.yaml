@@ -20,8 +20,8 @@ params:
   homeInfoParams:
     Title: "👋 Welcome to thuinanutshell"
     Content: >
-      Hi, my name is Thu - a junior majoring in Data Science @ Minerva University where I got the chance to travel around the world while pursuing my degree.
-      I create this blog to document my learning as an aspiring Research Engineer.
+      Hi, my name is Thu. I study Data Science @ Minerva University where I got the chance to travel around the world while pursuing my degree 👩‍💻 🌍 .
+      I create this blog to document my learning as an aspiring Research Engineer (or just to share some fun things I learn along the way).
 
   socialIcons:
     - name: github
@@ -50,7 +50,7 @@ menu:
       name: Projects
       url: /projects/
       weight: 30
-    - identifier: Fun Facts
-      name: Fun Facts
-      url: /fun_facts/
+    - identifier: From Scratch
+      name: From Scratch
+      url: /from_scratch/
       weight: 40
