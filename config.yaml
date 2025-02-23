@@ -46,11 +46,11 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
+    - identifier: Projects
+      name: Projects
+      url: /projects/
       weight: 30
-    - identifier: tags
-      name: Tags
-      url: /tags/
+    - identifier: Fun Facts
+      name: Fun Facts
+      url: /fun_facts/
       weight: 40

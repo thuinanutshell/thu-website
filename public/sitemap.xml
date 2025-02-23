@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/model_comparison/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hyp_test/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/airport_simulation/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
@@ -15,6 +21,9 @@
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/bacteria_growth/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ll_programming/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
