@@ -14,13 +14,25 @@
     <loc>http://localhost:1313/posts/causal_inference/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/from_scratch/cnn/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/rcnn/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/from_scratch/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/from_scratch/kmeans/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/from_scratch/knn/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/from_scratch/linreg/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/from_scratch/logreg/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/machine-learning/</loc>
@@ -29,10 +41,22 @@
     <loc>http://localhost:1313/tags/mathematics/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/from_scratch/mlp/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/from_scratch/nb/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/agentic_ai/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/cellular_automata/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-02-22T20:40:10-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-02-22T20:40:10-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>

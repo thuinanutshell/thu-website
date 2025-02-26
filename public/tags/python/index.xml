@@ -9,11 +9,53 @@
     <lastBuildDate>Sat, 22 Feb 2025 20:40:10 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Convolutional Neural Networks</title>
+      <link>http://localhost:1313/from_scratch/cnn/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/cnn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Means Clustering</title>
+      <link>http://localhost:1313/from_scratch/kmeans/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/kmeans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>K-Nearest Neighbor</title>
+      <link>http://localhost:1313/from_scratch/knn/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/knn/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Linear Regression</title>
       <link>http://localhost:1313/from_scratch/linreg/</link>
       <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
       <guid>http://localhost:1313/from_scratch/linreg/</guid>
       <description>Understanding Linear Regression by implementing it from scratch</description>
+    </item>
+    <item>
+      <title>Logistic Regression</title>
+      <link>http://localhost:1313/from_scratch/logreg/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/logreg/</guid>
+      <description>Understanding Logistic Regression by implementing it from scratch</description>
+    </item>
+    <item>
+      <title>Multilayer Perceptron</title>
+      <link>http://localhost:1313/from_scratch/mlp/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/mlp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Naive Bayes</title>
+      <link>http://localhost:1313/from_scratch/nb/</link>
+      <pubDate>Sat, 22 Feb 2025 20:40:10 -0300</pubDate>
+      <guid>http://localhost:1313/from_scratch/nb/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
